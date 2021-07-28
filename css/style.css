@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden; 
+}
 .nike-bg{
     background: #FFF9F4;
 }
